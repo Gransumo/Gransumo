@@ -1,7 +1,9 @@
 # Hola, soy Gabriel Castro 👋
 
 Actualmente trabajo en Cloud Computing en **AWS** y **Terraform**
+
 Mi objetivo es hacer la transición a un rol de desarrollo full-time, especialmente en proyectos backend con Java
+
 Me encanta aprender nuevas herramientas y frameworks, y siempre estoy buscando nuevas formas de mejorar mis habilidades. Actualmente estoy enfocado en **AWS**, **Terraform**, y **Java**.
 
 ## 🌱 Actualmente estoy aprendiendo
