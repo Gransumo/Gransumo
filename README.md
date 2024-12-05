@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Gransumo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Gabriel Castro 👨‍💻  
+Junior Developer | Cloud & Web Enthusiast  
+🌐 [LinkedIn](https://linkedin.com/in/gabrielcastro) | 📧 castrosanchezgabriel@gmail.com  
 
-<!---
-Gransumo/Gransumo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills  
+- **Languages**: Java, JavaScript (React, Node.js), PHP (Laravel)  
+- **Cloud**: AWS, Azure, Terraform  
+- **Databases**: MySQL, Oracle SQL  
+
+## Featured Projects  
+- [Sistema de Gestión Escolar](https://github.com/gabriel/school-management)  
+- [Blog Personal](https://github.com/gabriel/blog-react)  
