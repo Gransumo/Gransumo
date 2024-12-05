@@ -28,7 +28,7 @@ Me encanta aprender nuevas herramientas y frameworks, y siempre estoy buscando n
 - **Servicios en la nube**: AWS, GCP
 
 ## 📬 Contáctame
-- **LinkedIn**: [linkedin.com/in/gabrielcastro](linkedin.com/in/gabriel-hernando-castro-sánchez-308b46227)
+- **LinkedIn**: [linkedin.com/in/gabrielcastro](https://www.linkedin.com/in/gabriel-hernando-castro-s%C3%A1nchez-308b46227/)
 - **Correo electrónico**: castrosanchezgabriel@gmail.com
 
 ## 👨‍💻 Estoy buscando nuevas oportunidades
